@@ -8,8 +8,8 @@ I have completed all 8 coding problems and written 2 blog posts based on the ass
 
 ## Blog Posts
 
-1. [Access Modifiers in TypeScript OOP](./access-modifiers.md)
-2. [Union and Intersection Types in TypeScript](./union-intersection.md)
+1. [Access Modifiers in TypeScript OOP](https://github.com/tusher100/assignment-1/blob/main/access-modifiers-oop.md)
+2. [Union and Intersection Types in TypeScript](https://github.com/tusher100/assignment-1/blob/main/Union-vs-Intersection.md)
 
 ## Technologies Used
 
